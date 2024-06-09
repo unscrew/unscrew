@@ -8,8 +8,9 @@
 - Interested in joining a side project 🙋🏻‍♀️, feel free to [email](mailto:chloe.minkyung.k@gmail.com) me.
 
 **Since I am released from demanding oncall/support/🚒👩🏻‍🚒 now, I'll be building some stuff for fun...**
-- 🔮 fortune teller cli 
-- 🌿 space weero (comfort/慰劳)
+- 🥠 Fortune Cookie cli [python]
+- 🌿 space Weero (comfort/慰劳) [react + typescript + python] for a friend who broke up with her fiancé after 8 yrs..
+- 👾 Ban/Pick analysis leveraging Riot api [python + fastapi] for 2024
 - TBD ...
 
 **Open Source Contributions**
