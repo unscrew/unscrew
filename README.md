@@ -9,3 +9,6 @@
 - 🔮 fortune teller cli 
 - 🌿 space weero (comfort/慰劳)
 - TBD ...
+
+**Open Source Contributions**
+- [yarpc/yarpc-go](https://github.com/yarpc/yarpc-go) [issue#2217](https://github.com/yarpc/yarpc-go/issues/2217)
