@@ -5,10 +5,11 @@
 - Golang, Python, Java, GCP, AWS, SQL, Redis, Kafka, Spark, HDFS, Hive, Docker, BuildKite, Grafana  
 - My resume can be found [here]()
 
-**Since I am released from tremendous amount of oncall/support load now, I'll be building some stuff for fun...**
+**Since I am released from tremendous amount of oncall/support/🚒👩🏻‍🚒 now, I'll be building some stuff for fun...**
 - 🔮 fortune teller cli 
 - 🌿 space weero (comfort/慰劳)
 - TBD ...
 
 **Open Source Contributions**
-- [yarpc/yarpc-go](https://github.com/yarpc/yarpc-go) [issue#2217](https://github.com/yarpc/yarpc-go/issues/2217)
+- [yarpc/yarpc-go](https://github.com/yarpc/yarpc-go) [issue#2217](https://github.com/yarpc/yarpc-go/issues/2217) 
+- [huggingface/transformers](https://github.com/huggingface/transformers) [PR#31333](https://github.com/huggingface/transformers/pull/31333)
