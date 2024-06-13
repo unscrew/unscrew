@@ -17,6 +17,6 @@
   
 **Since I am released from demanding oncall/support/🚒👩🏻‍🚒, I'll be building some stuff for fun...**
 - 🥠 Fortune Cookie cli [python]
-- 🌿 space Weero (위로/comfort/慰劳) [react + typescript + python] for a friend who broke up with her fiancé after 8 yrs..
+- 🌿 space Weero (위로/comfort/慰劳) [react + typescript + python]
 - 👾 Ban/Pick analysis leveraging Riot api [python + fastapi] for 2024
 - TBD ...
