@@ -1,9 +1,6 @@
-## Open to work 👩🏻‍💻👋
+## 👩🏻‍💻👋
 
-- 5+ yrs experience at Uber Technologies, Inc as a backend engineer in product platform (March 2019 ~ June 2024)
-- Built large scale distributed systems from the ground up including tier 1 service serving top 3 highest traffic volume at Uber.
 - Golang, Python, Java, GCP, AWS, SQL, Redis, Kafka, Spark, HDFS, Hive, Presto, Cadence, Docker, BuildKite, Grafana
-- No visa sponsorship needed to work in 🇺🇸&🇰🇷. Currently living in SF bay area, CA. No preferences between in-office/hybrid/remote work setting.
 - My resume can be found [here](https://github.com/unscrew/unscrew/blob/main/kim_resume_2024.pdf).
 - Interested in joining a side project 🙋🏻‍♀️, feel free to [email](mailto:chloe.minkyung.k@gmail.com) me.
 
