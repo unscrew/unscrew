@@ -10,6 +10,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) :: [PR#31333](https://github.com/huggingface/transformers/pull/31333)
 - [uber-go-style-guide-kr](https://github.com/TangoEnSkai/uber-go-style-guide-kr) :: [PR#22](https://github.com/TangoEnSkai/uber-go-style-guide-kr/pull/22)
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) :: [PR#2139](https://github.com/jetify-com/devbox/pull/2139)
+- [redis/node-redis] :: [issue#2813](https://github.com/redis/node-redis/issues/2813)
 
   
 **Since I am released from demanding oncall/support/🚒👩🏻‍🚒, I'll be building some stuff for fun...**
