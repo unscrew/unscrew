@@ -1,9 +1,5 @@
 ## 👩🏻‍💻👋
-
-- Golang, Python, Java, GCP, AWS, SQL, Redis, Kafka, Spark, HDFS, Hive, Presto, Cadence, Docker, BuildKite, Grafana
-- My resume can be found [here](https://github.com/unscrew/unscrew/blob/main/kim_resume_2024.pdf).
 - Interested in joining a side project 🙋🏻‍♀️, feel free to [email](mailto:chloe.minkyung.k@gmail.com) me.
-
 
 **Open Source Contributions**
 - [yarpc/yarpc-go](https://github.com/yarpc/yarpc-go) :: [issue#2217](https://github.com/yarpc/yarpc-go/issues/2217) 
