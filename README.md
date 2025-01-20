@@ -1,5 +1,10 @@
 ## 👩🏻‍💻👋
-- Interested in joining a side project 🙋🏻‍♀️, feel free to [email](mailto:chloe.minkyung.k@gmail.com) me.
+### 2025 Goals
+- Revisit Statistics through [a book](https://product.kyobobook.co.kr/detail/S000200053547) 🟢
+- Revisit Linear algebra through (1) Woojin Hyun - starting point (algebra) (2) MIT OCW Linear Algebra by Strang ⚪️
+- [Concurrecy in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/) 🟢
+- A personal project in Go ⚪️
+- [Introduction to Recommender Systems](https://product.kyobobook.co.kr/detail/S000201794203) (recommended by a friend working on Ranking algorithm)
 
 **Open Source Contributions**
 - [yarpc/yarpc-go](https://github.com/yarpc/yarpc-go) :: [issue#2217](https://github.com/yarpc/yarpc-go/issues/2217) 
